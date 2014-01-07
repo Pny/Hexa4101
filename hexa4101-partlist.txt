@@ -1,0 +1,36 @@
+Partlist
+
+Exported from CAT4101_hexa.brd at 2011-11-21 00:16:53
+
+EAGLE Version 5.11.0 Copyright (c) 1988-2010 CadSoft
+
+Part     Value          Package               Library      Position (inch)       Orientation
+
+C1       0.1uF          C1206                 _allyourbase (0.197 0.489)         R180
+C2       0.1uF          C1206                 _allyourbase (0.842 0.49)          R180
+C3       0.1uF          C1206                 _allyourbase (1.488 0.49)          R180
+C7       0.1uF          C1206                 _allyourbase (2.143 0.491)         R180
+C8       0.1uF          C1206                 _allyourbase (2.783 0.49)          R180
+C9       0.1uF          C1206                 _allyourbase (3.439 0.491)         R180
+C10      1uF            C1206                 _allyourbase (2.541 0.49)          R90
+C11      1uF            C1206                 _allyourbase (3.185 0.49)          R90
+C12      1uF            C1206                 _allyourbase (3.832 0.49)          R90
+C4       1uF            C1206                 _allyourbase (0.6 0.49)            R90
+C5       1uF            C1206                 _allyourbase (1.25 0.49)           R90
+C6       1uF            C1206                 _allyourbase (1.895 0.49)          R90
+R1       768R           R1206                 _allyourbase (0.409 0.49)          R90
+R2       768R           R1206                 _allyourbase (1.056 0.49)          R90
+R3       768R           R1206                 _allyourbase (1.702 0.49)          R90
+R4       768R           R1206                 _allyourbase (2.347 0.49)          R90
+R5       768R           R1206                 _allyourbase (2.993 0.49)          R90
+R6       768R           R1206                 _allyourbase (3.64 0.49)           R90
+JP2                     SCREWTERMINAL-3.5MM-6 _allyourbase (2.106299 0.17)       R0
+JP3                     SCREWTERMINAL-3.5MM-6 _allyourbase (1.141 0.17)          R0
+JP5                     SCREWTERMINAL-3.5MM-6 _allyourbase (3.070866 0.17)       R0
+JP6                     SCREWTERMINAL-3.5MM-6 _allyourbase (0.177165 0.17)       R0
+U1       CAT4101        TO263-51              _allyourbase (0.328 0.95)          R0
+U2       CAT4101        TO263-51              _allyourbase (0.974 0.95)          R0
+U3       CAT4101        TO263-51              _allyourbase (1.62 0.95)           R0
+U4       CAT4101        TO263-51              _allyourbase (2.266 0.95)          R0
+U5       CAT4101        TO263-51              _allyourbase (2.912 0.95)          R0
+U6       CAT4101        TO263-51              _allyourbase (3.558 0.95)          R0
